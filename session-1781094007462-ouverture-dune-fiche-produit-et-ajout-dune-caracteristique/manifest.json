@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1.0",
+  "sessionId": "session-1781094007462-ouverture-dune-fiche-produit-et-ajout-dune-caracteristique",
+  "scenarioName": "Ouverture d'une fiche produit et ajout d'une caractéristique",
+  "generatedAt": "2026-06-10T12:21:28.904Z",
+  "files": {
+    "session": "session.json",
+    "guideRaw": "guide-raw.md",
+    "context": "context.md"
+  },
+  "assets": {
+    "imagesDir": "images"
+  },
+  "stats": {
+    "stepCount": 12
+  }
+}

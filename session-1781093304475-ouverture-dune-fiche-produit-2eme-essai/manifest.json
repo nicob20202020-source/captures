@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1.0",
+  "sessionId": "session-1781093304475-ouverture-dune-fiche-produit-2eme-essai",
+  "scenarioName": "Ouverture d'une fiche produit 2eme essai",
+  "generatedAt": "2026-06-10T12:09:39.725Z",
+  "files": {
+    "session": "session.json",
+    "guideRaw": "guide-raw.md",
+    "context": "context.md"
+  },
+  "assets": {
+    "imagesDir": "images"
+  },
+  "stats": {
+    "stepCount": 10
+  }
+}

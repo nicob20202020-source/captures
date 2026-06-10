@@ -1,0 +1,466 @@
+{
+  "id": "session-1781095585597-ouverture-dune-fiche-produit-et-ajout-dune-caracteristique-test-1",
+  "startedAt": "2026-06-10T12:46:25.597Z",
+  "startUrl": "https://sellapp-preprod.sellbase-plateforme.com/login",
+  "functionName": "Ouverture d'une fiche produit et ajout d'une caractéristique - test 1",
+  "functionSlug": "ouverture-dune-fiche-produit-et-ajout-dune-caracteristique-test-1",
+  "recordingStartedAt": "2026-06-10T12:46:58.544Z",
+  "endedAt": "2026-06-10T12:47:49.711Z",
+  "steps": [
+    {
+      "stepNumber": "001",
+      "capturedAt": "2026-06-10T12:47:01.282Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "no-image treeview-line is-correct loading open no-pointer-events",
+        "text": "Câbles et Cheminements",
+        "selector": "div",
+        "rect": {
+          "x": -2.8125,
+          "y": 158.375,
+          "width": 249.625,
+          "height": 19.1875
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:00.254Z"
+      },
+      "mutationSummary": {
+        "count": 102,
+        "mergedRect": {
+          "x": 27.984375,
+          "y": 12.40625,
+          "width": 1189.25,
+          "height": 673.10546875
+        }
+      },
+      "images": {
+        "beforeFull": "images/001-before-full.png",
+        "click": "images/001-click.png",
+        "afterFull": "images/001-after-full.png",
+        "result": "images/001-result.png"
+      }
+    },
+    {
+      "stepNumber": "002",
+      "capturedAt": "2026-06-10T12:47:03.157Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "no-image treeview-line is-correct loading open no-pointer-events",
+        "text": "Systèmes enterrés",
+        "selector": "div",
+        "rect": {
+          "x": 13.1875,
+          "y": 178.5625,
+          "width": 233.625,
+          "height": 19.1875
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:02.119Z"
+      },
+      "mutationSummary": {
+        "count": 200,
+        "mergedRect": {
+          "x": 13.1875,
+          "y": 12.40625,
+          "width": 1204.046875,
+          "height": 1098.5625
+        }
+      },
+      "images": {
+        "beforeFull": "images/002-before-full.png",
+        "click": "images/002-click.png",
+        "afterFull": "images/002-after-full.png",
+        "result": "images/002-result.png"
+      }
+    },
+    {
+      "stepNumber": "003",
+      "capturedAt": "2026-06-10T12:47:04.932Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "no-image treeview-line is-correct loading open no-pointer-events",
+        "text": "Compartiment nivelable pour intégration de goulotte, double fond et faux sol",
+        "selector": "div",
+        "rect": {
+          "x": 29.1875,
+          "y": 198.75,
+          "width": 211.625,
+          "height": 19.1875
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:03.882Z"
+      },
+      "mutationSummary": {
+        "count": 200,
+        "mergedRect": {
+          "x": 27.984375,
+          "y": 12.40625,
+          "width": 1189.25,
+          "height": 1119.75
+        }
+      },
+      "images": {
+        "beforeFull": "images/003-before-full.png",
+        "click": "images/003-click.png",
+        "afterFull": "images/003-after-full.png",
+        "result": "images/003-result.png"
+      }
+    },
+    {
+      "stepNumber": "004",
+      "capturedAt": "2026-06-10T12:47:07.288Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "no-image treeview-line is-correct loading open no-pointer-events",
+        "text": "OFFICEA",
+        "selector": "div",
+        "rect": {
+          "x": 45.1875,
+          "y": 218.9375,
+          "width": 195.625,
+          "height": 19.1875
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:06.265Z"
+      },
+      "mutationSummary": {
+        "count": 200,
+        "mergedRect": {
+          "x": 27.984375,
+          "y": 12.40625,
+          "width": 1189.25,
+          "height": 1159.125
+        }
+      },
+      "images": {
+        "beforeFull": "images/004-before-full.png",
+        "click": "images/004-click.png",
+        "afterFull": "images/004-after-full.png",
+        "result": "images/004-result.png"
+      }
+    },
+    {
+      "stepNumber": "005",
+      "capturedAt": "2026-06-10T12:47:09.108Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "A",
+        "id": null,
+        "className": "treeview-title",
+        "text": "655279_EKSQ405BL",
+        "selector": "a",
+        "rect": {
+          "x": 100.8125,
+          "y": 239.625,
+          "width": 140,
+          "height": 19
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/index",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:08.044Z"
+      },
+      "mutationSummary": {
+        "count": 200,
+        "mergedRect": {
+          "x": 27.984375,
+          "y": 12.40625,
+          "width": 1189.25,
+          "height": 1159.125
+        }
+      },
+      "images": {
+        "beforeFull": "images/005-before-full.png",
+        "click": "images/005-click.png",
+        "afterFull": "images/005-after-full.png",
+        "result": "images/005-result.png"
+      }
+    },
+    {
+      "stepNumber": "006",
+      "capturedAt": "2026-06-10T12:47:20.708Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "btn btn-primary",
+        "text": "+ Caractéristique",
+        "selector": "div",
+        "rect": {
+          "x": 1210.328125,
+          "y": 237.953125,
+          "width": 160.671875,
+          "height": 30.390625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:19.662Z"
+      },
+      "mutationSummary": {
+        "count": 59,
+        "mergedRect": {
+          "x": 36.8125,
+          "y": 158.875,
+          "width": 554.640625,
+          "height": 1010.15625
+        }
+      },
+      "images": {
+        "beforeFull": "images/006-before-full.png",
+        "click": "images/006-click.png",
+        "afterFull": "images/006-after-full.png",
+        "result": "images/006-result.png"
+      }
+    },
+    {
+      "stepNumber": "007",
+      "capturedAt": "2026-06-10T12:47:21.712Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "btn btn-primary",
+        "text": "+ Caractéristique",
+        "selector": "div",
+        "rect": {
+          "x": 1210.328125,
+          "y": 237.953125,
+          "width": 160.671875,
+          "height": 30.390625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:20.739Z"
+      },
+      "mutationSummary": null,
+      "images": {
+        "beforeFull": "images/007-before-full.png",
+        "click": "images/007-click.png",
+        "afterFull": "images/007-after-full.png",
+        "result": null
+      }
+    },
+    {
+      "stepNumber": "008",
+      "capturedAt": "2026-06-10T12:47:23.357Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "btn btn-primary",
+        "text": "+ Caractéristique",
+        "selector": "div",
+        "rect": {
+          "x": 1210.328125,
+          "y": 237.953125,
+          "width": 160.671875,
+          "height": 30.390625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:22.361Z"
+      },
+      "mutationSummary": null,
+      "images": {
+        "beforeFull": "images/008-before-full.png",
+        "click": "images/008-click.png",
+        "afterFull": "images/008-after-full.png",
+        "result": null
+      }
+    },
+    {
+      "stepNumber": "009",
+      "capturedAt": "2026-06-10T12:47:27.347Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "DIV",
+        "id": null,
+        "className": "btn btn-primary",
+        "text": "+ Caractéristique",
+        "selector": "div",
+        "rect": {
+          "x": 1210.328125,
+          "y": 237.953125,
+          "width": 160.671875,
+          "height": 30.390625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:26.313Z"
+      },
+      "mutationSummary": null,
+      "images": {
+        "beforeFull": "images/009-before-full.png",
+        "click": "images/009-click.png",
+        "afterFull": "images/009-after-full.png",
+        "result": null
+      }
+    },
+    {
+      "stepNumber": "010",
+      "capturedAt": "2026-06-10T12:47:35.412Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "INPUT",
+        "id": "principal_30",
+        "className": "form-input d-block",
+        "text": "",
+        "selector": "#principal_30",
+        "rect": {
+          "x": 305,
+          "y": 806.265625,
+          "width": 1010,
+          "height": 30.765625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:34.401Z"
+      },
+      "mutationSummary": null,
+      "images": {
+        "beforeFull": "images/010-before-full.png",
+        "click": "images/010-click.png",
+        "afterFull": "images/010-after-full.png",
+        "result": null
+      }
+    },
+    {
+      "stepNumber": "011",
+      "capturedAt": "2026-06-10T12:47:43.819Z",
+      "trigger": "click",
+      "before": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE"
+      },
+      "after": {
+        "url": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "title": "| SELL BASE",
+        "navigationChanged": false
+      },
+      "clickedElement": {
+        "tagName": "INPUT",
+        "id": "principal_37",
+        "className": "form-input d-block",
+        "text": "73269098",
+        "selector": "#principal_37",
+        "rect": {
+          "x": 305,
+          "y": 749.5,
+          "width": 1010,
+          "height": 30.765625
+        },
+        "pageUrl": "https://sellapp-preprod.sellbase-plateforme.com/data/show/0/1541690/11541639/5",
+        "pageTitle": "| SELL BASE",
+        "clickedAt": "2026-06-10T12:47:42.806Z"
+      },
+      "mutationSummary": null,
+      "images": {
+        "beforeFull": "images/011-before-full.png",
+        "click": "images/011-click.png",
+        "afterFull": "images/011-after-full.png",
+        "result": null
+      }
+    }
+  ]
+}
